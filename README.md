@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Full Name]! 👋
+# Hi there, I'm Awuni David Ababio! 👋
 
 ## 📊 Data Analyst | Transforming Data into Business Insights
 
@@ -13,8 +13,8 @@ I'm a data analyst passionate about discovering patterns in complex datasets and
 - **Methods:** Data Cleaning, ETL, Exploratory Data Analysis, Predictive Modeling
 
 ### 🎓 Education & Certifications
-- **Google Data Analytics Professional Certificate** (Coursera, 2024)
-- [Your Degree] from [Your University]
+- **Google Data Analytics Professional Certificate** (Coursera, 2026)
+- BSc. Computer Science from Kwame Nkrumah University of Science and Technology
 
 ### 📈 What I'm Working On
 - Building end-to-end data analysis projects
