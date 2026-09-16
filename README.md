@@ -1,39 +1,36 @@
-# Hi there, I'm Awuni David Ababio! 👋
+# David Ababio Awuni
 
-## 📊 Data Analyst | Transforming Data into Business Insights
+I am an independent researcher from Ghana studying **language-model behaviour** and the **reliability of model evaluation**.
 
-I'm a data analyst passionate about discovering patterns in complex datasets and creating visualizations that drive strategic business decisions.
+I keep returning to one question: *what are we actually measuring when we evaluate a language model?* My recent work examines how prompt wording changes model responses around African-language content, and how evaluator choice affects judgments of model quality.
 
-### 🛠️ Technical Skills
-- **Languages:** Python, SQL, R
-- **Data Analysis:** Pandas, NumPy, Statistical Analysis, A/B Testing
-- **Visualization:** Tableau, Power BI, Matplotlib, Seaborn, Plotly
-- **Tools:** Excel (Advanced), Jupyter Notebook, Git, Google Analytics
-- **Databases:** MySQL, PostgreSQL, SQLite
-- **Methods:** Data Cleaning, ETL, Exploratory Data Analysis, Predictive Modeling
+## Research focus
 
-### 🎓 Education & Certifications
-- **Google Data Analytics Professional Certificate** (Coursera, 2026)
-- BSc. Computer Science from Kwame Nkrumah University of Science and Technology
+- Language-model evaluation and evaluator bias
+- Multilingual NLP and African-language settings
+- Prompt sensitivity and measurement design
+- Reliable and reproducible machine-learning evaluation
 
-### 📈 What I'm Working On
-- Building end-to-end data analysis projects
-- Mastering SQL query optimization
-- Creating interactive dashboards in Tableau
-- Learning advanced machine learning techniques
+## Selected research
 
-### 🌟 Featured Projects
-*Coming soon! Check back in a few weeks to see my portfolio projects.*
+- **[Who Judges Matters: Measuring Family-Conditioned Preference in LLM-as-Judge Panels](https://awunidavid.github.io/assets/Who-the-Judge-Is-preprint.pdf)**  
+  Studies how evaluator family affects judgments of model quality and introduces a corrected comparison for measuring same-family preference.
 
-### 📫 How to Reach Me
-- 💼 LinkedIn: [You'll add this link tomorrow]
-- 📧 Email: your.email@gmail.com
-- 🌍 Location: Accra, Ghana
-- 📞 Available for remote opportunities worldwide
+- **[AfriSyCo: Measuring Assertive Framing, Verification, and Wording Sensitivity Around African-Language Content](https://awunidavid.github.io/assets/AfriSyCo-preprint.pdf)**  
+  Examines how assertion, verification requests, and wording change model answers around content in six African languages.
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
+- **Enhancing Student Engagement in Online Lecture Streaming Platforms through Real-Time Quizzes**  
+  Conference presentation at the E-Learning International Conference, KNUST, 2024.
 
----
+## Background
 
-*"In God we trust. All others must bring data." - W. Edwards Deming*
+I hold a First Class BSc in Computer Science from Kwame Nkrumah University of Science and Technology (KNUST), where I also worked as a Research and Teaching Assistant. I am seeking PhD opportunities in NLP and machine learning.
+
+My research workflow includes Python, PyTorch, Hugging Face, multilingual benchmarking, prompt design, human annotation, bootstrap inference, permutation testing, GEE, and Bradley-Terry models.
+
+## Links
+
+- [Research portfolio](https://awunidavid.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/david-awuni-ababio-b740511a6/)
+- [Hugging Face](https://huggingface.co/Codelord01)
+- [Email](mailto:davidababioawuni@gmail.com)
