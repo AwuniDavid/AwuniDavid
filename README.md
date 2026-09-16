@@ -13,13 +13,13 @@ I keep returning to one question: *what are we actually measuring when we evalua
 
 ## Selected research
 
-- **[Who Judges Matters: Measuring Family-Conditioned Preference in LLM-as-Judge Panels](https://awunidavid.github.io/assets/Who-the-Judge-Is-preprint.pdf)**  
+- **[Who Judges Matters: Measuring Family-Conditioned Preference in LLM-as-Judge Panels](https://awunidavid.github.io/assets/Who-the-Judge-Is-preprint.pdf)**
   Studies how evaluator family affects judgments of model quality and introduces a corrected comparison for measuring same-family preference.
 
-- **[AfriSyCo: Measuring Assertive Framing, Verification, and Wording Sensitivity Around African-Language Content](https://awunidavid.github.io/assets/AfriSyCo-preprint.pdf)**  
+- **[AfriSyCo: Measuring Assertive Framing, Verification, and Wording Sensitivity Around African-Language Content](https://awunidavid.github.io/assets/AfriSyCo-preprint.pdf)**
   Examines how assertion, verification requests, and wording change model answers around content in six African languages.
 
-- **Enhancing Student Engagement in Online Lecture Streaming Platforms through Real-Time Quizzes**  
+- **Enhancing Student Engagement in Online Lecture Streaming Platforms through Real-Time Quizzes**
   Conference presentation at the E-Learning International Conference, KNUST, 2024.
 
 ## Background
