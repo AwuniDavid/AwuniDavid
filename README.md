@@ -31,6 +31,8 @@ My research workflow includes Python, PyTorch, Hugging Face, multilingual benchm
 ## Links
 
 - [Research portfolio](https://awunidavid.github.io/)
+- [ORCID](https://orcid.org/0009-0008-3351-5285)
+- [Google Scholar](https://scholar.google.com/citations?user=5Xe1CYkAAAAJ)
 - [LinkedIn](https://www.linkedin.com/in/david-ababio-awuni-b740511a6/)
 - [Hugging Face](https://huggingface.co/Codelord01)
 - [Email](mailto:awuniababiodavid@gmail.com)
